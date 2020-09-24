@@ -1,7 +1,7 @@
 # Doge-BadUSB
 Doge系列的第一个项目
 
-自主设计的badusb电路板
+自主设计的badusb电路板开源
 
 带存储与badusb功能，介绍晚点再写，累了。
 
